@@ -1,7 +1,6 @@
-### Hi there 👋, I am Ruan Sampaio
+# Hi there 👋, I am Ruan Sampaio
 - I’m currently working on Front-ed
 - I’m currently learning HTML, CSS and Python
--
 
   <a href="https://github.com/RuanSampaio-code">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuanSampaio-code&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
