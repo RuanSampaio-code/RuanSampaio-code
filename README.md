@@ -1,6 +1,6 @@
 # Hi there 👋, I am Ruan Sampaio 👨‍💻
 - ### I’m currently working on Front-ed
-- ### I’m currently learning HTML, CSS,  JAVASRIPT and Python
+- ### I’m currently learning HTML, CSS,  JAVASCRIPT and Python
 - ### Member of the junior company of computer engineering ADA at the federal university of maranhão (UFMA)
 
 # My activies
