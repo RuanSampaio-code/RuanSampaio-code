@@ -1,6 +1,6 @@
 # Hi there 👋, I am Ruan Sampaio 👨‍💻
 - ### I’m currently Software Development Intern in TOTVS
-- ### I’m currently learning HTML, CSS,  JAVASCRIPT and Python
+- ### I’m currently learning Framework Angular
 - ### Member of the junior company of computer engineering ADA at the federal university of maranhão (UFMA)
 
 # My activies
