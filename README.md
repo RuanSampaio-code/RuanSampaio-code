@@ -1,5 +1,5 @@
 # Hi there 👋, I am Ruan Sampaio 👨‍💻
-- ### I’m currently Developer 
+- ### Software Developer
 - ### I’m currently am part of the Program Jovem Tech
 - ### Member of the junior company of computer engineering ADA at the federal university of maranhão (UFMA)
 
