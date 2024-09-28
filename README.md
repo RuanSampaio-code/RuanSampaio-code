@@ -1,6 +1,6 @@
 # Hi there 👋, I am Ruan Sampaio 👨‍💻
 - ### Software Developer
-- ### I’m currently am part of the Program Jovem Tech
+- ### Working in Pulse
 - ### Member of the junior company of computer engineering ADA at the federal university of maranhão (UFMA)
 
 # My activies
