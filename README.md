@@ -1,6 +1,6 @@
 # Hi there 👋, I am Ruan Sampaio 👨‍💻
 - ### Software Developer
-- ### Working in Pulse
+- ### Working in Pulse by Grupo Mateus
 - ### Member of the junior company of computer engineering ADA at the federal university of maranhão (UFMA)
 
 # My activies
