@@ -5,7 +5,7 @@ I'm José Ruan, a Software Developer passionate about solving problems through t
 
 I love sharing knowledge with the community through [blog posts](https://medium.com/@ruansampaio001/conectando-aplica%C3%A7%C3%A3o-frontend-react-com-backend-django-atravez-de-api-702d1088ceb3) and [technical articles](https://medium.com/@ruansampaio001/preparando-ambiente-python-django-88f52dcc21cc).
 
-[![Linkedin: José Ruan](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruan-sampaio/)](https://www.linkedin.com/in/ruan-sampaio/)
+
 [![GitHub: José Ruan](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/ruansampaio001)
 
 ____
